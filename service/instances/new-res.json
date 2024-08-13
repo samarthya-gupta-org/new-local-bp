@@ -6,7 +6,7 @@
   "kind": "service",
   "disabled": true,
   "provided": false,
-  "version": "0.2",
+  "version": "0.3",
   "spec": {
     "enable_host_anti_affinity": false,
     "type": "application",
