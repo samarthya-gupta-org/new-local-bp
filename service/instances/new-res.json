@@ -12,7 +12,7 @@
     "type": "application",
     "release": {
       "strategy": {
-        "type": "RollingUpdate"
+        "type": "Recreate"
       },
       "image": "image_url"
     },
