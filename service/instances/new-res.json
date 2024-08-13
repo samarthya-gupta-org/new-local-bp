@@ -37,7 +37,7 @@
         "timeout": "10",
         "period": "32",
         "port": "8080",
-        "start_up_time": "15"
+        "start_up_time": "20"
       },
       "volumes": {}
     },
