@@ -42,7 +42,7 @@
       "volumes": {}
     },
     "env": {
-      "LOG_LEVEL": "INFO"
+      "LOG_LEVEL": "INFO_2"
     }
   }
 }
