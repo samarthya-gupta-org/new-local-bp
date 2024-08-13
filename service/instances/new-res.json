@@ -1,5 +1,4 @@
 {
-  "$schema": "https://facets-cloud.github.io/facets-schemas/schemas/service/service.schema.json",
   "flavor": "k8s",
   "metadata": {
     "labels": {}
@@ -36,7 +35,7 @@
       },
       "health_checks": {
         "timeout": "10",
-        "period": "30",
+        "period": "32",
         "port": "8080",
         "start_up_time": "15"
       },
