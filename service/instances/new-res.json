@@ -30,7 +30,7 @@
       },
       "size": {
         "cpu": "300m",
-        "memory": "1Gi",
+        "memory": "2Gi",
         "cpu_limit": "1000m"
       },
       "health_checks": {
