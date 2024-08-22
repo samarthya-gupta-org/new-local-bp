@@ -29,7 +29,7 @@
       },
       "ports": {},
       "size": {
-        "cpu": "300m",
+        "cpu": "400m",
         "memory": "1Gi",
         "cpu_limit": "1000m",
         "memory_limit": "5Gi"
