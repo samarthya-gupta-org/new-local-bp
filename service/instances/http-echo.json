@@ -3,7 +3,7 @@
   "flavor": "k8s",
   "metadata": {
     "labels": {
-      "deliveryType": "MANUAL"
+      "deliveryType": "AUTO"
     }
   },
   "kind": "service",
