@@ -1,5 +1,5 @@
 {
-  "flavor": "vm"
+  "flavor": "vm",
   "metadata": {
     "labels": {}
   },
